@@ -1,8 +1,6 @@
-package zad1;
+package zad1structure;
 
-import java.lang.reflect.Array;
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class AppMain {
     public static void main(String[] args) {

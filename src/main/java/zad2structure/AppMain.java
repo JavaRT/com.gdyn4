@@ -1,6 +1,4 @@
-package zad2;
-
-import zad1.Osoba;
+package zad2structure;
 
 import java.util.*;
 

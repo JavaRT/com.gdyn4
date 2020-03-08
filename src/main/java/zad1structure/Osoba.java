@@ -1,4 +1,4 @@
-package zad1;
+package zad1structure;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
